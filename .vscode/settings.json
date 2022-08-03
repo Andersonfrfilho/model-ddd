@@ -1,0 +1,8 @@
+{
+  "jest.jestCommandLine": "npm run test",
+  "jestrunner.jestCommand": "npm run test",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  }
+}
